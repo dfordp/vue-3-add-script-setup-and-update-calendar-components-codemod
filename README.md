@@ -1,6 +1,4 @@
-Short description
-
-Detailed description
+Replace v-model:checked, v-model:pressed with more familiar API for form component.
 
 ## Example
 
