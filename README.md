@@ -1,4 +1,6 @@
-Use prevPage/nextPage props for greater control.
+Use prevPage/nextPage props for greater control.
+
+
 
 ## Example
 
