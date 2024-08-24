@@ -1,4 +1,4 @@
-Replace v-model:checked, v-model:pressed with more familiar API for form component.
+Use prevPage/nextPage props for greater control.
 
 ## Example
 
