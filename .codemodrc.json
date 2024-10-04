@@ -1,7 +1,7 @@
 {
   "$schema": "https://codemod-utils.s3.us-west-1.amazonaws.com/configuration_schema.json",
-  "name": "rekaUI-v2/add-script-setup-and-update-calendar-components",
-  "version": "1.0.0",
+  "name": "reka-ui/remove-calendar-step-prop",
+  "version": "1.0.0", 
   "engine": "jscodeshift",
   "private": false,
   "arguments": [],
